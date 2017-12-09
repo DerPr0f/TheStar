@@ -1,5 +1,6 @@
 # TheStar
 NeoPixel Christmas Star
+
 This project is a program for Arduino for lighting NeoPixel-LEDs.
 It's called TheStar because I want to use it on christmas decoration.
 
